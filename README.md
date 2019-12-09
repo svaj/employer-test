@@ -27,11 +27,11 @@ A list of questions to ask potential employers.
 ### Values
 
 * What are your organization's values?
-* What characteristics to you look for in employees to exemplify those values?
+* What characteristics do you look for in employees to exemplify those values?
 * Tell me about a time where values were considered as part of making a tough decision. How did values affect the outcome?
 
 ### Leadership / Management
-* Do managers regularly meet 1-1 with their reports?
+* Do managers regularly meet 1-1 with their reports? How often?
 * How responsive is your management to your questions and concerns?
 * What does success look like for a manager here? How about failure?
 * What sort of training do you give managers? _Even if not interviewing for a manager role_
@@ -49,7 +49,7 @@ A list of questions to ask potential employers.
 * Who is currently making important contributions to your organization? What qualities do they have that are adding such value?
 * Who has gotten ahead in your org? To what do you attribute their advancement?
 * What 3 things differentiate someone who is really great in this org from someone who is merely good?
-* What does success look like in this position?
+* **What does success look like in this position?**
 * Imagine it's a year from now, and you're thinking to yourself "We made a poor choice in hiring for this role". What are the things the person you hired did that make you regret the hire?
 * What concerns do you have about my suitability for this role? 
 
@@ -120,12 +120,6 @@ A list of questions to ask potential employers.
 * Is all employee compensation known within the company?
 * Is employee compensation shared within the team?
 
-### What kind of meals are compensations?
-
-* Is breakfast provided?
-* Is lunch provided?
-* Is dinner available and provided?
-* Is there non-meal time food available?
 
 ## Organizational Structure
 
@@ -139,13 +133,6 @@ A list of questions to ask potential employers.
 * Are managers and reports co-located?
 * Are teams co-located?
 * How are decisions handed off between time zones and locations?
-
-## Tech / Tools
-
-### How are devices supported?
-
-* Are personal devices allowed to connect to the company network?
-* BYOD? BYOA?
 
 ## Diversity
 
@@ -166,8 +153,3 @@ A list of questions to ask potential employers.
 * What is the customer churn and/or renewal rate?
   * Whether they know the rates is a good indicator, separate from what it is.
 * (If a startup) What is your runway? How many employees do you have?
-
-## See also
-
-- Julia Evans' [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
-- [@dml's](https://github.com/dlovitch) list of [Compensation and Benefits](https://github.com/dlovitch/compensation-and-benefits)
